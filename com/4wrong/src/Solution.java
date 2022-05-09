@@ -12,11 +12,7 @@ public class Solution {
         printListValues(list);
         processCastedObjects(list);
         //3
-
-
         //4 - Исправь 2 ошибки
-
-
         //5
 
     }
