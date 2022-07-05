@@ -16,7 +16,6 @@ public class Artifact
             this.number = number;
             this.culture = culture;
         }
-
         public Artifact(int number) {
             this.number = number;
         }
@@ -30,5 +29,4 @@ public class Artifact
             System.out.println(v2.culture);
             System.out.println(v3.number);
         }
-
 }
