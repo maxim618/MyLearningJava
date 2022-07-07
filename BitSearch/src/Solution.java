@@ -10,7 +10,6 @@ public class Solution {
         System.out.println(maxPowerOf2(1026));      //1024
         System.out.println(maxPowerOf2(17));        //16
     }
-
     public static int maxPowerOf2(int x) {
         //Integer.highestOneBit(1);
         System.out.println(String.format("%8s", Integer.toBinaryString(x)).replace(' ', '0'));
