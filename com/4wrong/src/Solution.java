@@ -1,10 +1,8 @@
 import java.util.LinkedList;
 import java.util.List;
-
 /*
 Исправь четыре ошибки
 */
-
 public class Solution {
     public static void main(String[] args) {
         List<Number> list = new LinkedList<Number>();
@@ -14,7 +12,6 @@ public class Solution {
         //3
         //4 - Исправь 2 ошибки
         //5
-
     }
     public static void initList(List<Number> list){
         list.add(new Double(1000f));
