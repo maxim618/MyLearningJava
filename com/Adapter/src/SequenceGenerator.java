@@ -1,3 +1,4 @@
+
 public class SequenceGenerator {
 
     private final Generator generator;
