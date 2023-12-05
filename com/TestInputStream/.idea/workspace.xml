@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53fc2ad5-d482-4644-90db-7eb4f995ce63" name="Default Changelist" comment="" />
+    <list default="true" id="6f96530c-ad25-4967-a1b6-76e132735e50" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +14,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1fLy2dTohdrYBwqpjFUJsjefyYH" />
+  <component name="ProjectId" id="1jZHaeRn4v3ZVDtPTT7v3T4zURS" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -24,11 +24,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/JavaRushProject" />
   </component>
   <component name="RunManager">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="sortMinAndMax" />
+      <module name="TestInputStream" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -44,38 +45,42 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="53fc2ad5-d482-4644-90db-7eb4f995ce63" name="Default Changelist" comment="" />
-      <created>1596011464359</created>
+      <changelist id="6f96530c-ad25-4967-a1b6-76e132735e50" name="Default Changelist" comment="" />
+      <created>1604004758845</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1596011464359</updated>
+      <updated>1604004758845</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1596661053425">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1604049630911">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596661053425" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1596661053425">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604049630911" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1604018510667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596661053425" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1596661053424">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604018510667" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1604018510667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596661053424" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1596661053425">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604018510667" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1604018510666">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596661053425" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1596661897578">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604018510666" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1604018510667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596661897578" />
-    <state x="65" y="0" key="new project wizard" timestamp="1596661964390">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604018510667" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1604049561305">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1596661964390" />
+    <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1604049561305" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1604049547296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1604049547296" />
   </component>
 </project>
