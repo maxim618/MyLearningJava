@@ -1,7 +1,0 @@
-insert
-into
-public.users
-8(username, firstname, lastname, birth_date, info, role)
-values
-(?, ?, ?, ?, ?, ?)
-
