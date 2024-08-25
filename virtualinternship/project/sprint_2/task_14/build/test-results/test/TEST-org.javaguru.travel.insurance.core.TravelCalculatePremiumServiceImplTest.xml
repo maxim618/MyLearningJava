@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.javaguru.travel.insurance.core.TravelCalculatePremiumServiceImplTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-03-27T10:00:03" hostname="DESKTOP-U5TCM42" time="0.094">
+  <properties/>
+  <testcase name="shouldPopulatePersonFirstName()" classname="org.javaguru.travel.insurance.core.TravelCalculatePremiumServiceImplTest" time="0.059"/>
+  <testcase name="shouldPopulateAgreementDateFrom()" classname="org.javaguru.travel.insurance.core.TravelCalculatePremiumServiceImplTest" time="0.002"/>
+  <testcase name="shouldPopulateAgreementDateTo()" classname="org.javaguru.travel.insurance.core.TravelCalculatePremiumServiceImplTest" time="0.018"/>
+  <testcase name="shouldPopulatePersonLastName()" classname="org.javaguru.travel.insurance.core.TravelCalculatePremiumServiceImplTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.javaguru.travel.insurance.core.TravelCalculatePremiumServiceImplTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-03-27T10:00:17" hostname="DESKTOP-U5TCM42" time="5.745">
+  <properties/>
+  <testcase name="shouldPopulatePersonFirstName()" classname="org.javaguru.travel.insurance.core.TravelCalculatePremiumServiceImplTest" time="5.482"/>
+  <testcase name="shouldPopulateAgreementDateFrom()" classname="org.javaguru.travel.insurance.core.TravelCalculatePremiumServiceImplTest" time="0.009"/>
+  <testcase name="shouldPopulateAgreementDateTo()" classname="org.javaguru.travel.insurance.core.TravelCalculatePremiumServiceImplTest" time="0.004"/>
+  <testcase name="shouldPopulatePersonLastName()" classname="org.javaguru.travel.insurance.core.TravelCalculatePremiumServiceImplTest" time="0.025"/>
+  <testcase name="shouldPopulateAgreementPrice()" classname="org.javaguru.travel.insurance.core.TravelCalculatePremiumServiceImplTest" time="0.079"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (C:\Users\User\.gradle\caches\modules-2\files-2.1\net.bytebuddy\byte-buddy-agent\1.14.9\dfb8707031008535048bad2b69735f46d0b6c5e5\byte-buddy-agent-1.14.9.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+]]></system-err>
+</testsuite>
