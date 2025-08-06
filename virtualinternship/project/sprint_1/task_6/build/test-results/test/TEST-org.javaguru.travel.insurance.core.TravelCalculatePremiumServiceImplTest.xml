@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.javaguru.travel.insurance.core.TravelCalculatePremiumServiceImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-27T10:00:02" hostname="DESKTOP-U5TCM42" time="0.056">
-  <properties/>
-  <testcase name="deleteMe()" classname="org.javaguru.travel.insurance.core.TravelCalculatePremiumServiceImplTest" time="0.056"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
