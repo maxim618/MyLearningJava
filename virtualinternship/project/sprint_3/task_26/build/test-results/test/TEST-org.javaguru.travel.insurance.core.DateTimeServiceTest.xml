@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.javaguru.travel.insurance.core.DateTimeServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-03-27T10:00:19" hostname="DESKTOP-U5TCM42" time="0.078">
-  <properties/>
-  <testcase name="shouldDaysBetweenBePositive()" classname="org.javaguru.travel.insurance.core.DateTimeServiceTest" time="0.066"/>
-  <testcase name="shouldDaysBetweenBeNegative()" classname="org.javaguru.travel.insurance.core.DateTimeServiceTest" time="0.002"/>
-  <testcase name="shouldDaysBetweenBeZero()" classname="org.javaguru.travel.insurance.core.DateTimeServiceTest" time="0.003"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
